@@ -1,0 +1,26 @@
+- title: "Attention Is All You Need"
+  authors:
+    -
+      name: Ashish Vaswani
+    -
+      name: Noam Shazeer
+      mixlab-member: true
+    -
+      name: Niki Parmar
+    -
+      name: Jakob Uszkoreit
+    -
+      name: Llion Jones
+    -
+      name: Aidan N. Gomez
+    -
+      name: Lukasz Kaiser
+    -
+      name: Illia Polosukhin
+
+  year: 2017
+  journal: Advances in Neural Information Processing Systems 30 (NIPS 2017)
+  link: https://arxiv.org/abs/1706.03762
+  dataset: https://drive.google.com/file/d/1mBE5LoWz6vGVHarzz8fWNZ9_9-hT51Bb/view?usp=sharing
+  poster: MIXLAB_URL!/resources/pdf/papers/poster.pdf # if hosted on this site
+  video: https://www.youtube.com/watch?v=dQw4w9WgXcQ

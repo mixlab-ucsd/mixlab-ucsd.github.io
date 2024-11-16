@@ -1,0 +1,10 @@
+- first_name: Hansen
+  last_name: Lillemark
+  role: PhD student
+  img: hansen_lillemark.png
+  is_alumni: 
+  website: https://hlillemark.github.io/
+  twitter: https://x.com/hansenlillemark
+  google_scholar: https://scholar.google.com/citations?user=X_mcf_EAAAAJ&hl=en
+  semantic_scholar:
+  github: https://github.com/hlillemark
